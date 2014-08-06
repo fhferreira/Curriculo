@@ -1,17 +1,17 @@
 
-#Raony Freer Athayde Marcondes
-### Maringaense, 25 anos, solteiro. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FB: fb.com/raonymarcondes
-### Tel. 44 9999-8679 ou 44 3263-5124 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: contato@raony.net
+#Flávio Henrique Ferreira
+### Restinga-SP, 26 anos, Casado, Pai. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FB: fb.com/flavio.h.ferreira
+### Tel. 16 99208-4635 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: fhferreira@devphp.in
 <br />
 
 ##Apresentação
 
-Busco uma oportunidade para ampliar meus conhecimentos e expandir minha carreira de desenvolvedor web no mercado de trabalho, em Joinville.
+Busco uma oportunidade para ampliar meus conhecimentos e expandir minha carreira de desenvolvedor web no mercado de trabalho.
 
 ##Formação
 
-- 2006 &nbsp;–&nbsp; Ensino Médio – Instituto de Educação Estadual de Maringá;
-- 2013 &nbsp;–&nbsp; Graduado em Sistemas para Internet – Cesumar.
+- 2006 &nbsp;–&nbsp; Ensino Médio – Professor Pedro Nunes Rocha;
+- 2013 &nbsp;–&nbsp; Graduado em Sistemas da Informação - Universidade de Franca.
 
 ##Conhecimentos / Aptidões
 
